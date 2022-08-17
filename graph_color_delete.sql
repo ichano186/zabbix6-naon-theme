@@ -1,0 +1,1 @@
+delete from graph_theme where theme = 'naon-theme';
